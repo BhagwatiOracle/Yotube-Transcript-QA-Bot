@@ -2,7 +2,7 @@
 
 A simple Question Answering (QA) web app that allows users to ask questions about a YouTube video by leveraging its transcript. This app uses Retrieval-Augmented Generation (RAG) with Google Gemini as the LLM, powered by LangChain for orchestration and Streamlit for the web interface.
 
-__
+---
 
 ### 🛠️ Tech Stack
 Google Gemini – Large Language Model (LLM)

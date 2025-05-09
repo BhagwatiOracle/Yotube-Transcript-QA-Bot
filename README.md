@@ -13,6 +13,7 @@ Streamlit – Frontend for interaction
 
 YouTube Video ID – To fetch video subtitles
 
+---
 
 ### 🧠 How It Works
 
@@ -22,6 +23,7 @@ YouTube Video ID – To fetch video subtitles
 - 4. Embeddings are generated using HuggingFace Embedding Model and Then it stored int FAISS vector store.
 - 5. When user asks a question , the relevant context is fed along with query to the LLM Model.
 
+---
 
 ### Complete WorkFlow
 

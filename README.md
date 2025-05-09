@@ -12,7 +12,7 @@ LangChain – Framework for building RAG pipelines
 
 Streamlit – Frontend for interaction
 
-YouTube Video ID – To fetch video subtitles
+YouTube Transcript API – To fetch video subtitles
 
 
 
